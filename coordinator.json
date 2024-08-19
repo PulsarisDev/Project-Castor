@@ -1,0 +1,9 @@
+{
+    "config":{
+        "server.port":      1234,
+        "server.reg.mode":  "worker",
+        "server.reg.arg":   2,
+        "mr.map.chunkSize": "256KB",
+        "mr.reduce.num":    3
+    }
+}
